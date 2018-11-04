@@ -50,5 +50,8 @@ def sum_array(list)
 end
 
 def add_s(list)
-  
+  i=1;
+  list.each_with_index do |x|
+  end 
+
 end

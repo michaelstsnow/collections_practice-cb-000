@@ -26,6 +26,8 @@ def reverse_array(list)
 end
 
 def kesha_maker(list)
+  list.each do |item|
+  end
 end
 
 def find_a

@@ -34,7 +34,8 @@ def kesha_maker(list)
   k_list
 end
 
-def find_a
+def find_a(list)
+  list_a=[];
 end
 
 def sum_array

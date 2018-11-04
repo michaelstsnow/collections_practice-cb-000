@@ -51,7 +51,7 @@ end
 
 def add_s(list)
   lists=[];
-  list.each_with_index{ |x|
+  list.each_index{ |x|
     lists << x
     #if x == 1
     #  lists << list[x];

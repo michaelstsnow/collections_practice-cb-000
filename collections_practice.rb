@@ -13,7 +13,7 @@ def sort_array_char_count(list)
   list_with_count.sort{|a,b| a[1] <=> b[1]}
 end
 
-def swap_elements(array,pos_1,pos_2)
+def swap_elements(array)
   val_1=array(pos_1);
   val_2=array(pos_2);
   array[pos_1]=val_2;

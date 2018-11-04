@@ -14,10 +14,10 @@ def sort_array_char_count(list)
 end
 
 def swap_elements(list_m)
-  val_1=list_m[2];
-  val_2=list_m[3];
-  list_m[2]=val_2;
-  list_m[3]=val_1;
+  val_1=list_m[1];
+  val_2=list_m[2];
+  list_m[1]=val_2;
+  list_m[2]=val_1;
   return list_m
 end
 

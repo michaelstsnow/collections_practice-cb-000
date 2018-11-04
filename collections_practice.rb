@@ -38,6 +38,7 @@ def find_a(list)
   list_a=[];
   list.each do |item|
     if item.start_with?("a")
+      list_a << item
     else
     end
   end

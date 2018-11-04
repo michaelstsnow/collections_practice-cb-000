@@ -7,7 +7,7 @@ def sort_array_desc(list)
 end
 
 def sort_array_char_count(list)
-  list_with_count=list.each do 
+  list_with_count=list.each do |item|
   end
 end
 

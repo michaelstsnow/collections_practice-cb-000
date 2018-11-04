@@ -3,6 +3,7 @@ def sort_array_asc(list)
 end
 
 def sort_array_desc(list)
+  list.collect.sort( |x,y| y<=>x )
 end
 
 def sort_array_char_count

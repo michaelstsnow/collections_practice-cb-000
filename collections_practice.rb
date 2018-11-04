@@ -36,6 +36,8 @@ end
 
 def find_a(list)
   list_a=[];
+  list.each do |item|
+  end
 end
 
 def sum_array

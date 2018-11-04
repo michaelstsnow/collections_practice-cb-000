@@ -50,11 +50,12 @@ def sum_array(list)
 end
 
 def add_s(list)
-  i=1;
+  lists=[];
   list.each_with_index do |x|
     if x == 2
+      
     else
     end
-  end 
+  end
 
 end

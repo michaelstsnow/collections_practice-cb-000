@@ -21,3 +21,6 @@ end
 
 def sum_array
 end
+
+def add_s
+end

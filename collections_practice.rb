@@ -55,7 +55,7 @@ def add_s(list)
     if x == 2
       lists << list[x];
     else
-      lists << list[x] + "s"
+      lists << list[x] & "s"
     end
   end
   lists

@@ -42,6 +42,7 @@ def find_a(list)
     else
     end
   end
+  list_a
 end
 
 def sum_array

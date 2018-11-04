@@ -27,6 +27,7 @@ end
 
 def kesha_maker(list)
   list.each do |item|
+    item[2]=item.substitute
   end
 end
 

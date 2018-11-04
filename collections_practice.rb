@@ -52,6 +52,9 @@ end
 def add_s(list)
   i=1;
   list.each_with_index do |x|
+    if x == 2
+    else
+    end
   end 
 
 end

@@ -58,5 +58,5 @@ def add_s(list)
       lists << list[x] + "s"
     end
   end
-
+  lists
 end

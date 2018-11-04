@@ -2,7 +2,7 @@ def sort_array_asc(list)
   list.collect.sort()
 end
 
-def sort_array_desc
+def sort_array_desc(list)
 end
 
 def sort_array_char_count

@@ -10,6 +10,7 @@ def sort_array_char_count(list)
   list_with_count=list.each do |item|
     [item.length,item]
   end
+  list_with_count.sort{|a,b| a[1] <=> b[1]}
 end
 
 def swap_elements

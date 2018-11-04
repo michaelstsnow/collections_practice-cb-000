@@ -52,13 +52,12 @@ end
 def add_s(list)
   lists=[];
   list.each_index{ |x|
-    lists << x
-    #if x == 1
-    #  lists << list[x];
-    #else
-    #  word=list[x];
-    #  lists << "#{word}s"
-    #end
+    if x == 1
+      lists << list[x];
+    else
+      word=list[x];
+      lists << "#{word}s"
+    end
   }
   lists
 end

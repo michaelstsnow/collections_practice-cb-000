@@ -13,7 +13,7 @@ def sort_array_char_count(list)
   list_with_count.sort{|a,b| a[1] <=> b[1]}
 end
 
-def swap_elements
+def swap_elements[array,pos_1,pos_2]
 end
 
 def reverse_array

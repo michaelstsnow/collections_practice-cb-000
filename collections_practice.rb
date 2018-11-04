@@ -53,8 +53,9 @@ def add_s(list)
   lists=[];
   list.each_with_index do |x|
     if x == 2
-      lists << list[x]
+      lists << list[x];
     else
+      lists << list[x] + "s"
     end
   end
 

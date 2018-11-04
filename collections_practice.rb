@@ -49,5 +49,6 @@ def sum_array(list)
   list.inject{ |sum, n| sum + n}
 end
 
-def add_s
+def add_s(list)
+  
 end

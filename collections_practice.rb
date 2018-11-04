@@ -8,7 +8,7 @@ end
 
 def sort_array_char_count(list)
   list_with_count=list.each do |item|
-    [item,item.length]
+    item.length
   end
 end
 

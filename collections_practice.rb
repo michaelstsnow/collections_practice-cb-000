@@ -18,3 +18,6 @@ end
 
 def find_a
 end
+
+def sum_array
+end

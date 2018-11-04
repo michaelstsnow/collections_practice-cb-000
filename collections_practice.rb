@@ -30,6 +30,7 @@ def kesha_maker(list)
   list.each do |item|
     k_list << item[2]="$"
   end
+  k_list
 end
 
 def find_a

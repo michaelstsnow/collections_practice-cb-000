@@ -25,7 +25,7 @@ def reverse_array(list)
   list.reverse
 end
 
-def kesha_maker
+def kesha_maker(list)
 end
 
 def find_a

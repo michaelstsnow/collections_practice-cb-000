@@ -45,7 +45,7 @@ def find_a(list)
   list_a
 end
 
-def sum_array
+def sum_array(list)
 end
 
 def add_s

@@ -1,5 +1,5 @@
 def sort_array_asc(list)
-
+  list.collect.sort()
 end
 
 def sort_array_desc

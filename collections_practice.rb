@@ -28,7 +28,8 @@ end
 def kesha_maker(list)
   k_list=[];
   list.each do |item|
-    k_list << item[2]="$";
+    item[2]="$";
+    k_list << item
   end
   k_list
 end

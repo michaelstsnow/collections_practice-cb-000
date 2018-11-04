@@ -21,7 +21,7 @@ def swap_elements(list_m)
   return list_m
 end
 
-def reverse_array
+def reverse_array(list)
 end
 
 def kesha_maker
